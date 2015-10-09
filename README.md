@@ -1,2 +1,3 @@
 # iOS-Tip-Calculator
-Tip Calculator prework 
+First iOS application, Tip Calculator prework 
+
